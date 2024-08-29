@@ -1,4 +1,6 @@
-# DnsLogo-go
+# DnsLogo-Axiao
+
+DNSLog-Axiao 是一款用 Go 语言编写的监控 DNS 解析记录的工具，使用路由 API 进行返回查询。
 
 ## 使用说明
 
