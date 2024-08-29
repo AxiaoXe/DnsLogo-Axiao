@@ -17,7 +17,7 @@ DNSLog-Axiao 是一款用 Go 语言编写的监控 DNS 解析记录的工具，�
 
 服务器启动于 :8000
 
-### 配置示例
+### Config.yaml文件配置示例
 
 ```yaml
 HTTP:
