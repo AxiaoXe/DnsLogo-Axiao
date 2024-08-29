@@ -10,8 +10,8 @@ DNSLog-Axiao 是一款用 Go 语言编写的监控 DNS 解析记录的工具，�
 
 ## DNS解析记录
 - `A记录 @ ip`: 设置一个A记录解析到你的服务器IP地址
-- `ns	log	domain.com`: NS解析log子域名到你的域名地址
-- `ns	*.log	domain.com`: NS解析*。log子域名到你的域名地址
+- `ns记录	log	domain.com`: NS解析log子域名到你的域名地址
+- `ns记录	*.log domain.com`: NS解析*.log子域名到你的域名地址
 
 ## 服务器信息
 
